@@ -1,0 +1,10 @@
+
+              Switch du CPU pour MSX Turbo R by GDX
+
+
+ Z80 et R800 sont des commandes pour MSX-DOS qui changent le CPU du MSX Turbo R.
+
+ Notes:
+ - Ces commandes peuvent être aussi exécutées sous Basic (BLOAD"Z80.COM",R ou
+   BLOAD"R800.COM",R).
+ - R800.COM sélectionne le mode R800 ROM.
